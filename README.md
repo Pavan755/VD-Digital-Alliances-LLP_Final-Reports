@@ -412,11 +412,9 @@ VD-Digital-Alliances-LLP_Final-Reports/
 │   └── PDF_CONVERSION_QUICK_START.md
 │
 ├── assets/
-│   ├── images/
-│   │   ├── VD-logo.png
-│   │   └── extracted/ (50+ screenshots)
-│   └── html/
-│       └── PROFESSIONAL_TEXTBOOK_IMPROVED.html
+│   └── images/
+│       ├── VD-logo.png (Company logo)
+│       └── extracted/ (50+ project screenshots)
 │
 ├── archive/
 │   └── VD-dump.zip
