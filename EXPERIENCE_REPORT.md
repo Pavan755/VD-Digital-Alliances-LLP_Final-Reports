@@ -1,16 +1,26 @@
-# 👨‍💼 My Internship Experience Report
+<div align="center">
 
-## Executive Summary
+![VD Digital Alliance Logo](assets/images/VD-logo.png)
 
-This document provides a comprehensive account of my 8-week internship at VD Digital Alliances LLP, including what I did, what I learned, challenges faced, and key takeaways that shaped my professional growth.
+# 👨‍💼 **My Internship Experience Report**
+
+### **VD Digital Alliance LLP - 8 Week Professional Internship**
+
+---
+
+</div>
+
+## 📊 Executive Summary
+
+This document provides a comprehensive account of my 8-week internship at VD Digital Alliance LLP, including what I did, what I learned, challenges faced, and key takeaways that shaped my professional growth.
 
 **At a Glance:**
-- Duration: February 13 - April 13, 2026 (8 weeks)
-- Commits: 40+ commits to production code
-- Projects: 4 major deliverables
-- Components: 15+ reusable components
-- Code: 5,000+ lines of TypeScript/SCSS
-- Status: ✅ 100% Complete
+- ✅ **Duration:** February 13 - April 13, 2026 (8 weeks)
+- ✅ **Commits:** 40+ commits to production code
+- ✅ **Projects:** 4 major deliverables
+- ✅ **Components:** 15+ reusable components
+- ✅ **Code:** 5,000+ lines of TypeScript/SCSS
+- ✅ **Status:** 100% Complete & Production Ready
 
 ---
 

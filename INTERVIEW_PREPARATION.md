@@ -1,10 +1,18 @@
-# 🎤 Comprehensive Interview Preparation Guide
+<div align="center">
 
-**Master Guide for Job Interviews, Technical Discussions, and Professional Conversations**
+![VD Digital Alliance Logo](assets/images/VD-logo.png)
+
+# 🎤 **Comprehensive Interview Preparation Guide**
+
+### **Master Guide for Job Interviews, Technical Discussions, and Professional Conversations**
+
+**For VD Digital Alliance LLP Internship Experience**
+
+</div>
 
 ---
 
-## Table of Contents
+## 📑 **Table of Contents**
 1. [Company & Background Questions](#1-company--background-questions)
 2. [Project & Deliverables Questions](#2-project--deliverables-questions)
 3. [Technical Skills & Architecture Questions](#3-technical-skills--architecture-questions)

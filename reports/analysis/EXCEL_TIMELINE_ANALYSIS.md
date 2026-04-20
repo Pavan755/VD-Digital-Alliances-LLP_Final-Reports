@@ -1,13 +1,23 @@
-# 📅 Internship Work Timeline Analysis
-## Excel-Based Project Tracking Breakdown
+<div align="center">
+
+![VD Digital Alliance Logo](../../assets/images/VD-logo.png)
+
+# 📅 **Internship Work Timeline Analysis**
+
+## **Excel-Based Project Tracking Breakdown**
+
+### **VD Digital Alliance LLP - 8 Week Journey**
+
+</div>
 
 **Timeline Sheet:** "Interns Work Timeline - Google Sheets"  
 **Analysis Date:** April 13, 2026  
-**Developer:** Pavan755
+**Developer:** Created by Me  
+**Status:** ✅ Complete
 
 ---
 
-## 📊 Timeline Overview
+## 📊 **Timeline Overview**
 
 ```
 Total Days:            61 days (Feb 13 - Apr 13, 2026)

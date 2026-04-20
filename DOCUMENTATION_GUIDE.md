@@ -1,12 +1,20 @@
-# 📐 Professional Documentation Guide
+<div align="center">
 
-## How to Create Your Own Internship/Project Documentation
+![VD Digital Alliance Logo](assets/images/VD-logo.png)
 
-This guide walks you through creating comprehensive, professional documentation for any internship, project, or development experience—using this repository as a template.
+# 📐 **Professional Documentation Guide**
+
+### **Complete Guide to Understanding This Internship Portfolio**
+
+</div>
+
+## 👋 **Introduction**
+
+This guide walks you through understanding and navigating this comprehensive internship documentation portfolio for VD Digital Alliance LLP.
 
 ---
 
-## Table of Contents
+## 📑 **Table of Contents**
 1. [Overview & Planning](#overview--planning)
 2. [Core Documentation Structure](#core-documentation-structure)
 3. [Creating Each Document](#creating-each-document)

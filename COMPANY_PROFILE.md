@@ -2,8 +2,10 @@
 
 <div align="center">
 
-## VD Digital Alliance LLP
-**Technology. Innovation. Purpose.**
+![VD Digital Alliance Logo](assets/images/VD-logo.png)
+
+## **VD Digital Alliance LLP**
+### **Technology. Innovation. Purpose.**
 
 *A multi-sector technology and consulting firm where technology, industry, and academia converge*
 

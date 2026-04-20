@@ -1,33 +1,44 @@
-# 🎓 Software Internship: Project Outcomes & Professional Retrospective
-## A Comprehensive Journey from Concept to Production
+<div align="center">
 
-**Intern:** Pavan755  
-**Organization:** Client_A Innovation Lab  
+![VD Digital Alliance Logo](../../assets/images/VD-logo.png)
+
+# 🎓 **Software Internship: Project Outcomes & Professional Retrospective**
+
+## **A Comprehensive Journey from Concept to Production**
+
+### **VD Digital Alliance LLP - Complete Internship Portfolio**
+
+---
+
+</div>
+
+**Intern:** Created by Me  
+**Organization:** VD Digital Alliance LLP  
 **Duration:** February 13, 2026 – April 13, 2026 (2 Months)  
 **Project Status:** ✅ **COMPLETED** | 100% Task Delivery Rate  
 **Repository:** https://github.com/Pavan755/intern-components
 
 ---
 
-## 📋 Executive Summary
+## 📊 **Executive Summary**
 
 This dissertation documents a transformative 8-week internship focused on building a **component-driven UI library** and **full-stack web applications** using modern Angular and Material Design principles. The intern independently executed **40+ commits**, developed **15+ production-ready components**, and demonstrated exceptional problem-solving capabilities through multiple Git challenges and technical pivots.
 
-### 🎯 Key Achievements
-- **50+ Screenshots** of completed work spanning 8 distinct projects
-- **100% Successful Deployment** of Library UI Documentation
-- **3 Major Projects Completed:**
-  - 📚 Library Files Component System
+### 🎯 **Key Achievements**
+- ✅ **50+ Screenshots** of completed work spanning 8 distinct projects
+- ✅ **100% Successful Deployment** of Library UI Documentation
+- ✅ **4 Major Projects Completed:**
+  - 📚 Component Library System
   - 🎨 Material UI Library Integration
   - ⚡ Interactive Task Manager Application
   - 🔐 DiziChallenge Authentication Platform
-  - 📝 Tic-Tac-Toe Game Implementation (Educational)
+  - 📝 Educational Tic-Tac-Toe Game Implementation
   
 ---
 
-## 🏗️ Part 1: Project Architecture & Tech Stack
+## 🏗️ **Part 1: Project Architecture & Tech Stack**
 
-### 1.1 Architecture Overview
+### **1.1 Architecture Overview**
 
 ```mermaid
 graph TB

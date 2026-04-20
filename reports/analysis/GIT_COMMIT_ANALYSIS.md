@@ -1,15 +1,23 @@
-# 🔍 Git Commit Analysis & Attribution Report
+<div align="center">
 
-## Executive Summary
+![VD Digital Alliance Logo](../../assets/images/VD-logo.png)
+
+# 🔍 **Git Commit Analysis & Attribution Report**
+
+### **VD Digital Alliance LLP - Complete Work Attribution**
+
+</div>
+
+## 📊 **Executive Summary**
 
 **Total Commits Analyzed:** 50+  
-**Commits by Pavan755:** 45+ (**100% of work**)  
+**Commits by Me:** 45+ (**100% of all work**)  
 **Repository:** https://github.com/Pavan755/intern-components  
 **Analysis Period:** February 11 - April 13, 2026
 
 ---
 
-## 📊 Commit Distribution by Developer
+## 📈 **Commit Distribution by Developer**
 
 ```
 ┌──────────────────────────────────────┐
