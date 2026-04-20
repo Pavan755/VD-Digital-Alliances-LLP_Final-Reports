@@ -2,7 +2,7 @@
 
 # 🏆 VD Digital Alliance - Professional Internship Portfolio
 
-![VD Digital Alliance Logo](https://raw.githubusercontent.com/Pavan755/VD-Portfolio/main/assets/images/VD-logo.png)
+![VD Digital Alliance Logo](assets/images/VD-logo.png)
 
 ---
 
