@@ -33,17 +33,22 @@
 
 ---
 
-## 🏢 About Company
+## 🏢 About VD Digital Alliance
 
-> **📝 Add your company information here:**
-> 
-> - Company name and mission
-> - What the company does (industries, services, products)
-> - Company philosophy or core values
-> - Key business divisions or focus areas
-> - Why you chose to work there
-> 
-> Replace this section with your company details.
+**VD Digital Alliance LLP** is a cutting-edge multi-sector technology consulting firm based in Visakhapatnam, India, with 25+ years of cross-sector expertise.
+
+### Company Overview
+- **Official Name:** VD Digital Alliance LLP
+- **Headquarters:** Visakhapatnam, Andhra Pradesh, India
+- **Registration:** Ministry of Corporate Affairs (LLPIN: ACS-9801)
+- **Founded:** November 2025
+- **Philosophy:** "Innovation with Purpose" - Creating real business impact
+
+### 4 Core Business Divisions
+1. **💻 Software & AI** - Intelligent software solutions & digital transformation
+2. **🏭 Industry 4.0** - Industrial automation, IoT, smart logistics, supply chain
+3. **📚 Academia & Training** - DiziEdutech program, corporate upskilling *(My internship program)*
+4. **🛒 Commerce** - B2B trading, agri-commerce, specialized procurement
 
 ---
 

@@ -497,11 +497,11 @@ Complete deliverables that form a strong professional portfolio.
 graph TB
     CEO["👥 Leadership<br/>25+ Years Cross-Sector<br/>Experience"]
     
-    CEO --> DP1["🎖️ Designated Partner 1<br/>Strategy & Vision"]
-    CEO --> DP2["🎖️ Designated Partner 2<br/>Operations & Delivery"]
+    CEO --> DP1["🎖️ Dantuluri Lakshmi Pathi Raju<br/>Designated Partner"]
+    CEO --> DP2["🎖️ Kishan Varma Sri Vatsavaya<br/>Designated Partner"]
     
-    DP1 --> DIV1["Business Development<br/>Client Relations<br/>Strategic Planning"]
-    DP2 --> DIV2["Technology Leadership<br/>Quality Assurance<br/>Operations"]
+    DP1 --> DIV1["Strategy & Vision<br/>Business Development<br/>Client Relations"]
+    DP2 --> DIV2["Operations & Delivery<br/>Technology Leadership<br/>Quality Assurance"]
     
     DIV1 --> TEAM["Cross-functional Teams<br/>Developers, Consultants,<br/>Trainers, Engineers"]
     DIV2 --> TEAM
@@ -731,6 +731,7 @@ By operating at the intersection of **technology, industry, and academia**, VD D
 
 **Incorporated:** November 2025  
 **Headquarters:** Visakhapatnam, Andhra Pradesh  
+**Registration:** LLPIN: ACS-9801  
 
 *Transforming businesses and preparing organizations for the future*
 
