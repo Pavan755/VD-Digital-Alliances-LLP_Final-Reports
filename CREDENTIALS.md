@@ -24,7 +24,17 @@
 
 ---
 
-## 📊 Performance Evaluation
+## � Official Offer Letter
+
+### Program Confirmation Document
+- 📄 **[Software Intern Offer Letter](credentials/Bandaru%20Pavan%20Kumar%20Software%20Intern%20offer%20letter.pdf)** - Official internship acceptance
+  - Confirms formal selection for DiziEdutech program
+  - Validates internship duration and role
+  - Serves as official program documentation
+
+---
+
+## �📊 Performance Evaluation
 
 ### Work Quality
 - ✅ **Code Quality:** Excellent (95+%)
