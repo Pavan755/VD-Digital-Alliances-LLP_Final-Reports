@@ -107,13 +107,14 @@ Several factors attracted me:
 - **Key achievement:** 39 component variants across 7 components
 - **Real-world use:** These components are reusable across projects
 
-**Project 2: Task Manager Application** (Week 3-4)
+**Project 2: Task Manager Application** (Week 3-4) | 🎓 Personal Practice Project
 - **Goal:** Build a full-featured task management dashboard
 - **Deliverables:** Complete CRUD application for task tracking
 - **Features:** Add/delete tasks, filter by category, progress tracking, completion status
 - **Tech:** Angular, RxJS BehaviorSubject, Reactive Forms, SCSS
 - **Key achievement:** Implemented complex state management without Redux
 - **Real-world use:** Taught me RxJS patterns applicable to any reactive app
+- **Practice Purpose:** In-depth mastery of reactive programming and state management patterns
 
 **Project 3: DiziChallenge Authentication Platform** (Week 5-6)
 - **Goal:** Build secure user authentication and onboarding system
@@ -122,11 +123,12 @@ Several factors attracted me:
 - **Key achievement:** Implemented secure password handling and form validation
 - **Real-world use:** Authentication patterns are critical in every production app
 
-**Project 4: Tic-Tac-Toe Game** (Week 7-8)
-- **Goal:** Educational project demonstrating game logic
-- **Deliverables:** Full game with win condition detection, player tracking
-- **Tech:** Angular, component state management
-- **Key achievement:** Taught problem-solving through game logic implementation
+**Project 4: Tic-Tac-Toe Game** (Week 7-8) | 🎓 Personal Practice Project
+- **Goal:** Educational project demonstrating game logic & algorithm implementation
+- **Deliverables:** Full game with win condition detection, player tracking, AI opponent
+- **Tech:** Angular, component state management, algorithm design
+- **Key achievement:** Comprehensive practice in game logic and problem-solving patterns
+- **Practice Purpose:** In-depth mastery of algorithm implementation and game state management
 
 ---
 
@@ -916,11 +918,11 @@ Mobile responsive design initially broke everything. Humbling experience.
 **Skills demonstrated:** Security, Form validation, User management  
 **Key metric:** Zero security vulnerabilities
 
-### Tic-Tac-Toe Game
-**Status:** ✅ Most fun  
-**Complexity:** 2/5 stars  
-**Skills demonstrated:** Game logic, Component state, Problem-solving  
-**Key metric:** Complete working game in minimal time
+### Tic-Tac-Toe Game | 🎓 Personal Practice Project
+**Status:** ✅ Most fun & Best for Algorithm Practice  
+**Complexity:** 2/5 stars (Elegant Implementation)  
+**Skills demonstrated:** Game logic, Component state, Problem-solving, AI algorithms  
+**Key metric:** Complete working game with AI opponent in minimal time
 
 ---
 

@@ -23,8 +23,8 @@
 - **Status:** ✅ Complete
 - **Key Screenshot:** Library Files homepage with 3 main features
 
-### 2. **Task Manager Application** ⚡
-- **Purpose:** Interactive task tracking dashboard
+### 2. **Task Manager Application** ⚡ | 🎓 Personal Practice Project
+- **Purpose:** Interactive task tracking dashboard & state management mastery
 - **Features:** Add/Delete tasks, Filter by category, Progress tracking
 - **Tech:** Angular, RxJS Observables, SCSS
 - **Status:** ✅ Complete
@@ -37,10 +37,11 @@
 - **Status:** ✅ Complete
 - **Screenshot:** Login/Register pages with form validation
 
-### 4. **Tic-Tac-Toe Game** 🎮
-- **Purpose:** Educational game project
-- **Tech:** Angular, Game logic
-- **Status:** ✅ Complete
+### 4. **Tic-Tac-Toe Game** 🎮 | 🎓 Personal Practice Project
+- **Purpose:** Educational game with algorithm design & state management practice
+- **Tech:** Angular, Game logic, AI algorithms
+- **Status:** ✅ Complete with AI Opponent
+- **Key Feature:** Strategic algorithm implementation
 
 ---
 

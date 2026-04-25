@@ -30,9 +30,9 @@ This dissertation documents a transformative 8-week internship focused on buildi
 - ✅ **4 Major Projects Completed:**
   - 📚 Component Library System
   - 🎨 Material UI Library Integration
-  - ⚡ Interactive Task Manager Application
+  - ⚡ Interactive Task Manager Application | 🎓 Personal Practice
   - 🔐 DiziChallenge Authentication Platform
-  - 📝 Educational Tic-Tac-Toe Game Implementation
+  - 📝 Educational Tic-Tac-Toe Game Implementation | 🎓 Personal Practice
   
 ---
 
@@ -348,7 +348,7 @@ interface TabItem {
 
 ---
 
-### 2.3 Component #3: Interactive Task Manager Application ⭐⭐⭐ **MOST COMPLEX**
+### 2.3 Component #3: Interactive Task Manager Application ⭐⭐⭐ **MOST COMPLEX** | 🎓 Personal Practice Project
 
 **Status:** ✅ Production Ready | **Screenshots:** 3  
 **Commits by Pavan755:** `Refactor home component styles and update HTML structure for improved...`, `Add guide component...`, multiple styling commits

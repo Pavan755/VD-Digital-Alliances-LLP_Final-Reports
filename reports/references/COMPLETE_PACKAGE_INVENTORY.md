@@ -64,9 +64,9 @@ Deliverables:
 
 ---
 
-#### **Project 2: Task Manager Application** ✅
+#### **Project 2: Task Manager Application** ✅ | 🎓 Personal Practice Project
 **Duration:** Weeks 3-4  
-**Status:** Complete & Production Ready  
+**Status:** Complete & Production Ready | *Intensive state management practice*  
 
 Deliverables:
 - ✅ Task CRUD Operations (Create, Read, Update, Delete)
@@ -84,6 +84,7 @@ Deliverables:
 **Code Lines:** 1,200+ lines  
 **Components:** Smart & Presentational components  
 **Features:** 8+ major features  
+**Purpose:** Mastery in state management, reactive programming, and professional UX patterns  
 
 ---
 
@@ -110,9 +111,9 @@ Deliverables:
 
 ---
 
-#### **Project 4: Educational Tic-Tac-Toe Game** ✅
+#### **Project 4: Educational Tic-Tac-Toe Game** ✅ | 🎓 Personal Practice Project
 **Duration:** Weeks 7-8  
-**Status:** Complete & Interactive  
+**Status:** Complete & Interactive | *Intensive algorithm & game logic practice*  
 
 Deliverables:
 - ✅ Interactive Game Board
@@ -130,6 +131,7 @@ Deliverables:
 **Code Lines:** 1,500+ lines  
 **Features:** 8+ game features  
 **AI Logic:** Custom algorithm implemented  
+**Purpose:** Mastery in game logic, algorithm design, and strategic problem-solving  
 
 ---
 

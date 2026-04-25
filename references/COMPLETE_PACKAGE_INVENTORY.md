@@ -48,9 +48,9 @@ This package contains a comprehensive professional dissertation documenting the 
 
 ### **Part 2: Projects & Problem-Solving**
 - ✅ Component Library documentation system
-- ✅ Task Manager application (RxJS state management)
+- ✅ Task Manager application (RxJS state management) | 🎓 Personal Practice
 - ✅ DiziChallenge Platform (authentication & forms)
-- ✅ Tic-Tac-Toe Game (AI algorithm implementation)
+- ✅ Tic-Tac-Toe Game (AI algorithm implementation) | 🎓 Personal Practice
 - ✅ 3 technical challenges with solutions:
   - Git push rejection (divergent histories)
   - SCSS import path errors (Eva Icons)

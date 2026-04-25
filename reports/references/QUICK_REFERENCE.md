@@ -28,9 +28,9 @@
 
 ### **Projects Delivered**
 ✅ Component Library System (15+ components)  
-✅ Task Manager Application (Full-stack)  
+✅ Task Manager Application (Full-stack) | 🎓 Personal Practice  
 ✅ Authentication Platform (Secure system)  
-✅ Educational Tic-Tac-Toe (Interactive game)
+✅ Educational Tic-Tac-Toe (Interactive game) | 🎓 Personal Practice
 
 ### **Code Metrics**
 ✅ **5,000+** lines of production code  

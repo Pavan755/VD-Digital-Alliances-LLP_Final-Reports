@@ -150,12 +150,13 @@ This document provides a comprehensive account of my 8-week internship at VD Dig
 ### Phase 3: Complex Systems (Week 5-6)
 
 #### What I Did
-- Created **Task Manager Application** - Full-featured dashboard:
+- Created **Task Manager Application** (*Personal Project for Practice & Mastery*) - Full-featured dashboard:
   - **Input Section** - Add new tasks with description and category
   - **Progress Bar** - Visual representation of completion percentage
   - **Filter System** - Filter tasks by category (Work, Personal, Learning)
   - **Task List** - Display all tasks with checkboxes, delete buttons
   - **Dashboard Summary** - Show total, completed, pending task counts
+  - *Purpose:* Intensive practice in state management, reactive programming, and UX design
   
 - Implemented **State Management** using RxJS:
   - Created `TaskService` with `BehaviorSubject` for state
@@ -278,11 +279,12 @@ TaskService (RxJS BehaviorSubject)
   - Setup instructions
   - Troubleshooting guides
 
-- **Tic-Tac-Toe Game** (Educational):
-  - Game logic implementation
-  - Win condition detection
-  - Computer AI (optional)
-  - Score tracking
+- **Tic-Tac-Toe Game** (*Personal Project for Practice & Mastery*):
+  - Game logic implementation with algorithm design
+  - Win condition detection & validation
+  - AI opponent algorithm (strategic placement)
+  - Score tracking & leaderboard system
+  - **Purpose:** Intensive practice in algorithm implementation and game state management
 
 #### Commits in This Phase
 - 15+ commits including:

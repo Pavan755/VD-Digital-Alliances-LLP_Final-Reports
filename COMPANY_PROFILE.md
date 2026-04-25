@@ -390,9 +390,9 @@ Data & Analytics      │ BigQuery, Tableau, PowerBI
 
 ### Projects Assigned
 1. **Library UI Component System** - 10+ reusable components
-2. **Task Manager Application** - Full CRUD with state management
+2. **Task Manager Application** - Full CRUD with state management | 🎓 Personal Project for Practice
 3. **DiziChallenge Platform** - Authentication & user onboarding
-4. **Tic-Tac-Toe Game** - Educational project with game logic
+4. **Tic-Tac-Toe Game** - Educational project with game logic | 🎓 Personal Project for Practice
 
 ---
 
